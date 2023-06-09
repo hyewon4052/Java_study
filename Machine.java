@@ -6,6 +6,7 @@ class Machine
 	{
 		Scanner sc = new Scanner(System.in);
 		int money, menu, pay = 0;
+		int m1000=0, m500=0, m100=0, m10=0;
 		String choice, select = "";
 		String drink = "";
 		System.out.println("-----------------------------------------------------------");
@@ -61,14 +62,21 @@ class Machine
 			System.out.print("추가로 선택하시겠습니까? (y or n) : ");
 			choice = sc.next();
 
-
 			if (choice.equals("n") || choice.equals("N")) break;
+			System.out.println();
 		}	//while
 
 		System.out.println();
 		System.out.println("***** 이용해 주셔서 감사합니다. *****");
 		System.out.println();
-		System.out.println("뽑으신 음료수는 " + drink + "이고, 잔액은 " + money + "입니다.");
+		System.out.println("뽑으신 음료수는 " + drink + "이고, 잔액은 " + money + "원 입니다.");
+		System.out.println("자~~ 거스름돈입니다. 받으세요~~~");
 
+		m1000 = money / 1000;
+		m500 = (money % 1000) / 500;
+		m100 = ((money % 1000) % 500) / 100;
+		m10 = (((money % 1000) % 500) % 100) / 10;
+
+		System.out.println("1000원 " +m1000 + "장, 500원 " + m500 + "개, 100원 " + m100 + "개, 10원 " + m10 + "개");
 	}
 }
