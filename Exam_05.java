@@ -33,12 +33,12 @@ class Exam_05
 //		int ic = (int)5.8;			// 강제형 변환
 //		System.out.println(ic);		//손실 가능성에 주의
 
-//		double db = 4.5 + 10;		//자동형 변환
+//		double cd = 4.5 + 10;		//자동형 변환
 //		System.out.println(cd);
 		
 		//증감연산자 : ++a, a++, --a,a--
 //		int id = 1;
-//		Systerm.out.println("id + = " + id);
+//		System.out.println("id + = " + id);
 //		int ie = id++;		//(id = id + 1);
 //		System.out.println("id = " + id + ", ie = " + ie);
 
@@ -49,15 +49,15 @@ class Exam_05
 //		System.out.println("ih = " + ih);
 //		System.out.println("ii = " + ii);
 		
-		int ij, ik;
-		ij = 8;
-
+//		int ij, ik;
+//		ij = 8;
+//
 //		ik = ij << 1;
 //		System.out.println("ik = " + ik);
-
+//
 //		ik = ij >> 1;
 //		System.out.println("ik = " + ik);
-		
+//		
 //		ik = ij >>> 1;			//왼쪽은 무조건 0으로 채움
 //		System.out.println("ik = " + ik);
 		
@@ -73,19 +73,19 @@ class Exam_05
 //				b = 1;
 //			}
 
-			int m=10, n;
+////		int m=10, n;
 //			n = ( (m == 5) || (m >= 7) ) ? ++m : 200;
 //			System.out.println(n);
 
-			if ((m == 5) || (m >= 7))
-			{
-				n = ++m;
-			}
-			else 
-			{
-				n = 200;
-			}
-			System.out.println(n);
-			
+////			if ((m == 5) || (m >= 7))
+////			{
+////				n = ++m;
+////			}
+////			else 
+////			{
+////				n = 200;
+////			}
+////			System.out.println(n);
+////			
 		}
 }
