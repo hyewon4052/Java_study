@@ -23,7 +23,7 @@ class BaseballGame
 			c3 = (int)(Math.random() * 9) + 1;
 		}
 		while (c3 == c2 || c3 == c1);		
-		//System.out.println(c1 + " " + c2 + " " + c3);
+		System.out.println(c1 + " " + c2 + " " + c3);
 
 		while (true)
 		{
