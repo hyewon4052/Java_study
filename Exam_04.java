@@ -30,5 +30,6 @@ class Exam_04
 			} //for j
 			System.out.println();
 		} //i
+
 	} //main
 }
