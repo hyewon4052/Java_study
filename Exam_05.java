@@ -49,11 +49,11 @@ class Exam_05
 //		System.out.println("ih = " + ih);
 //		System.out.println("ii = " + ii);
 		
-//		int ij, ik;
-//		ij = 8;
-//
-//		ik = ij << 1;
-//		System.out.println("ik = " + ik);
+		int ij, ik;
+		ij = 12;
+
+		ik = ij <<< 3;
+		System.out.println("ik = " + ik);
 //
 //		ik = ij >> 1;
 //		System.out.println("ik = " + ik);
@@ -73,19 +73,19 @@ class Exam_05
 //				b = 1;
 //			}
 
-////		int m=10, n;
-//			n = ( (m == 5) || (m >= 7) ) ? ++m : 200;
-//			System.out.println(n);
-
-////			if ((m == 5) || (m >= 7))
-////			{
-////				n = ++m;
-////			}
-////			else 
-////			{
-////				n = 200;
-////			}
+//		int m=10, n;
+////			n = ( (m == 5) || (m >= 7) ) ? ++m : 200;
 ////			System.out.println(n);
-////			
+//
+//			if ((m == 5) || (m >= 7))
+//			{
+//				n = ++m;
+//			}
+//			else 
+//			{
+//				n = 200;
+//			}
+//			System.out.println(n);
+			
 		}
 }
