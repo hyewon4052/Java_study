@@ -1,4 +1,4 @@
-class Array_Study_02 
+ class Array_Study_02 
 {
 	public static void main(String[] args) 
 	{
