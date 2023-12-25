@@ -1,4 +1,4 @@
-import java.util.Scanner;		//스캐너를 사용하기 위해 작성
+ import java.util.Scanner;		//스캐너를 사용하기 위해 작성
 
 class Park_if1
 {
