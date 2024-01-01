@@ -1,4 +1,4 @@
-class Park_for1 
+ class Park_for1 
 {
 	public static void main(String[] args) 
 	{
