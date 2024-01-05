@@ -4,7 +4,7 @@ class Array_Study_01
 	{
 		int score[] = {100, 88, 100, 100, 90};
 		int sum = 0;
-		float average;
+		float average ;
 
 		for (int i = 0; i < score.length ; i++)
 		{
