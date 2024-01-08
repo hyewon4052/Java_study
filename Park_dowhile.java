@@ -1,4 +1,4 @@
-class Park_dowhile 
+ class Park_dowhile 
 {
 	public static void main(String[] args) 
 	{
