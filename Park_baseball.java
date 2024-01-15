@@ -1,4 +1,4 @@
-import java.util.Random;	//random을 사용하기 위해 import
+ import java.util.Random;	//random을 사용하기 위해 import
 import java.util.Scanner;	////scanner를 사용하기 위해 import
 
 class  Park_baseball
