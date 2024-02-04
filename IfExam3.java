@@ -1,4 +1,4 @@
-class IfExam3 
+ class IfExam3 
 {
 	public static void main(String[] args) 
 	{
