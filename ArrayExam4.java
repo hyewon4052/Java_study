@@ -1,4 +1,4 @@
-class ArrayExam4 
+ class ArrayExam4 
 {
 	public static void main(String[] args) 
 	{
