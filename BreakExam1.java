@@ -1,4 +1,4 @@
-class BreakExam1
+ class BreakExam1
 {
 	public static void main(String[] args) 
 	{
