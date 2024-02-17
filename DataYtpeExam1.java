@@ -1,4 +1,4 @@
-class  DataYtpeExam1
+ class  DataYtpeExam1
 {
 	public static void main(String[] args) 
 	{
