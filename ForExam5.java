@@ -1,4 +1,4 @@
-class ForExam5 
+ class ForExam5 
 {
 	public static void main(String[] args) 
 	{
@@ -6,7 +6,7 @@ class ForExam5
 		{
 			for (int j = 1 ; j <= i; j++ )
 			{
-				System.out.print(j + " ");
+				System.out.print(j + "  ");
 			}
 			System.out.println();
 		}
