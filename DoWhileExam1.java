@@ -1,4 +1,4 @@
-class DoWhileExam1 
+ class DoWhileExam1 
 {
 	public static void main(String[] args) 
 	{
